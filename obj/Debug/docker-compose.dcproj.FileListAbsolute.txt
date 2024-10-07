@@ -1,0 +1,17 @@
+D:\Code\EFCoreDocker\bin\Debug\EFCoreSqlServer.deps.json
+D:\Code\EFCoreDocker\bin\Debug\EFCoreSqlServer.runtimeconfig.json
+D:\Code\EFCoreDocker\bin\Debug\appsettings.Development.json
+D:\Code\EFCoreDocker\bin\Debug\appsettings.json
+D:\Code\EFCoreDocker\bin\Debug\EFCoreSqlServer.exe
+D:\Code\EFCoreDocker\bin\Debug\EFCoreSqlServer.dll
+D:\Code\EFCoreDocker\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Code\EFCoreDocker\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code\EFCoreDocker\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\EFCoreDocker\bin\Debug\System.Text.Json.dll
+D:\Code\EFCoreDocker\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\EFCoreDocker\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Code\EFCoreDocker\bin\Debug\Microsoft.Identity.Client.dll
+D:\Code\EFCoreDocker\bin\Debug\EFCoreSqlServer.pdb
+D:\Code\EFCoreDocker\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Code\EFCoreDocker\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Code\EFCoreDocker\obj\Debug\docker-c.35A3FFBA.Up2Date
